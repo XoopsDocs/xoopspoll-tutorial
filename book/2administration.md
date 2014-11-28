@@ -56,13 +56,13 @@ When a Poll is expired, you can restart it and set a new expiration date. The op
 
 The “Add Poll” Tab is for creating new Polls. 
 
-![img_9.jpg](../assets/img_9.jpg)   
+![img_10.jpg](../assets/img_10.jpg)   
 
 ***Figure 6 The “About the Module” Tab***
 
 The “About the Module” gives you information about the module, its version number, author information, and access to changelog. 
 
-![img_10.jpg](../assets/img_10.jpg)  
+![img_11.jpg](../assets/img_11.jpg)  
 
 ***Figure 7 The “Help” Tab***
 
