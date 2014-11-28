@@ -7,6 +7,6 @@
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
-* Miscellaneous](book/other.md) 
+* [Miscellaneous](book/other.md) 
 * [Module Credits](book/9credits.md)
 
