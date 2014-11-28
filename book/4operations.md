@@ -14,18 +14,20 @@ We covered the Preferences above.
  
 To add a new Poll, go to the “Add Poll” Tab. This is where you create and configure new polls. The configuration options are as follows:
 
-Option	Function
-Poll question	This will appear as the title of the poll – what do you want to ask ?
-Poll description	For administrative use only – it isn’t publicly accessible anywhere.
-Expiration	The date / time that the voting will close (poll will still be displayed)
-Display in block	Select ‘yes’ for this poll to be displayed in the Polls block (if you select ‘no’ it will still be accessible through the ‘Polls’ link in the main menu).
-Display order	If you have multiple polls, you can set the vertical order in which they will appear in the polls block here. Lower numbers appear at the top of the page.
-Allow multiple selection	You can force people to select one voting option only, or allow them to select multiple options simultaneously.
-Allow Anonymous voting	If you select ‘yes’ people won’t have to register on your Website in order to vote. This can lead sometimes to spammers voting just for fun, and thus making your survey less reliable.
-Notify the poll author when expired ?	If you select ‘yes’ you will receive a notification via email or personal message when the poll expires according to the default notification option you selected when you registered your account.
-Options	Enter the ‘voting choices’ here - type each permitted response in a separate box. The drop down box to the right allows you to select the colour of the bar used to display the results for this voting option in the ‘view results’ page.
+|Option|	Function|
+|---|---|
+|Poll question|	This will appear as the title of the poll – what do you want to ask ?|
+|Poll description|	For administrative use only – it isn’t publicly accessible anywhere.|
+|Expiration	|The date / time that the voting will close (poll will still be displayed)|
+|Display in block|	Select ‘yes’ for this poll to be displayed in the Polls block (if you select ‘no’ it will still be accessible through the ‘Polls’ link in the main menu).|
+|Display order|	If you have multiple polls, you can set the vertical order in which they will appear in the polls block here. Lower numbers appear at the top of the page.|
+|Allow multiple selection|	You can force people to select one voting option only, or allow them to select multiple options simultaneously.|
+|Allow Anonymous voting	|If you select ‘yes’ people won’t have to register on your Website in order to vote. This can lead sometimes to spammers voting just for fun, and thus making your survey less reliable.|
+|Notify the poll author when expired ?|If you select ‘yes’ you will receive a notification via email or personal message when the poll expires according to the default notification option you selected when you registered your account.|
+|Options|	Enter the ‘voting choices’ here - type each permitted response in a separate box. The drop down box to the right allows you to select the colour of the bar used to display the results for this voting option in the ‘view results’ page.|
 
 You can fill out the details for your Poll:
+
 ![img_13.jpg](../assets/img_13.jpg)     
 
 **Figure 9 Adding a Poll**
