@@ -51,7 +51,6 @@ When a Poll is expired, you can restart it and set a new expiration date. The op
 |Reset all logs for this poll|	Select ‘yes’ to discard all the previous votes.|
 
 ![img_9.jpg](../assets/img_9.jpg)   
-
 ***Figure 5 The “Add Poll” Tab***
 
 The “Add Poll” Tab is for creating new Polls. 
