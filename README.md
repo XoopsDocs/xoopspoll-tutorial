@@ -23,4 +23,4 @@ Figure 1 Main view of the XOOPS Polls Module (Admin side)
 
  
 ![img_2.jpg](assets/img_2.jpg)  
-*Figure 1: Main view of the Marquee Module (Admin side)*
+*Figure 1: Main view of the XoopsPoll Module (Admin side)*
