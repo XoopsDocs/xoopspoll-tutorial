@@ -4,7 +4,7 @@
 # Module XoopsPoll
 #### for XOOPS 2.5.7
   
-![logoModule.png](assets/logoModule.png)
+![logoModule.png](assets/logoModule.png) 
 
 ## User Manual
   
@@ -17,7 +17,7 @@
 The Polls module can be used to display interactive survey forms on your site. Each poll can display a question on which visitors can ‘vote’. This can be a valuable way to collect feedback from your community. Polls can be configured to allow single or multiple choices and visitors can view the ‘results’ to date.
 
 
-![img_2.jpg](assets/img_2.jpg)  
+![img_2.jpg](assets/img_2.jpg) 
 *Figure 1: Main view of the XoopsPoll Module (Admin side)*
 
 # Table of Content
